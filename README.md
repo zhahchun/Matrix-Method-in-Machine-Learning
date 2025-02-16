@@ -14,12 +14,6 @@ This repository contains a collection of **machine learning practices** using ma
 
 Below are the featured practices in this portfolio, along with the machine learning methods applied and problems addressed:
 
-### 📘 **[Matrix Functions](./Python_code/00_matrix_functions.ipynb)**
-
-**Method Used:** Basic matrix operations for machine learning applications.
-
-**Problem Addressed:** Understanding fundamental matrix functions for data manipulation and transformation.
-
 ### 📘 **[Decision Boundary](./Python_code/01_linear_classiﬁer.ipynb)**
 
 **Method Used:** Linear classification using decision boundaries.
@@ -28,13 +22,13 @@ Below are the featured practices in this portfolio, along with the machine learn
 
 ![](/results/01_linear_classiﬁer.png)
 
-### 📘 **[Linearly Independent?](./Python_code/02_linearly_independent.ipynb)**
+### 📘 **[Linearly Independent](./Python_code/02_linearly_independent.ipynb)**
 
 **Method Used:** Identifying linearly independent features for dimensionality reduction.
 
 **Problem Addressed:** Determining which features in a dataset contribute unique information to improve model efficiency.
 
-### 📘 **[Polynomial Ftting](./Python_code/03_polynomial_ﬁtting.ipynb)**
+### 📘 **[Polynomial Fitting](./Python_code/03_polynomial_ﬁtting.ipynb)**
 
 **Method Used:** Polynomial regression for curve fitting.
 
